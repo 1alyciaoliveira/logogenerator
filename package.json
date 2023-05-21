@@ -1,7 +1,20 @@
 {
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "dependencies": {
-    "cli": "^1.0.1",
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
     "jest": "^29.5.0"
-  }
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
 }
