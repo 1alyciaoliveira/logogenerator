@@ -20,11 +20,13 @@ You must have NodeJS, Jest and Inquirer instaled.
 ## Usage
 Clone the code and open it in a IDE or a terminal. Type "node index.js" to run the code. Answer the questions and you'll have your logo.
 
+You can see a demo here: https://drive.google.com/file/d/1DILHSMq0On697S1Z_4rnXT23WpdJfjP8/view
+
 ## Credits
 N/A
 
 ## Test Instructions
-N/A
+After installing JEST, you can test the application running "npm run test" in your terminal.
 
 
 ## License
